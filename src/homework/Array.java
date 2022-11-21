@@ -1,7 +1,10 @@
 package homework;
 
+import homework.braceChecker.BraceChecker;
+
 public class Array {
     public static void main(String[] args) {
+
         char[] bolola = {'b', 'o', 'l', 'o', 'l', 'a'};
 
         char c = 'o';
